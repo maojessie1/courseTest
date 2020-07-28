@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Lenovo/IdeaProjects/courseClick/src/main/java/cases/LoginCase.java">
+        <classes>
+            <class name="cases.LoginCase">
+            </class>
+        </classes>
+    </test>
+</suite>
